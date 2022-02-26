@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+This is Carson from Hong Kong, full-stack software engineer, designer and entrepreneur.
+
+My strength is writing spaghetti code.
+
+Co-founder @ ReUbird (https://reubird.hk)
+
+Co-founder @ RakoSell (https://rakosell.com) [Acquired]
 
 <!--
 **Carson12345/Carson12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
