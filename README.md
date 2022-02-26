@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-This is Carson from Hong Kong, full-stack software engineer, designer and entrepreneur.
+This is Carson from Hong Kong, software engineer, designer and entrepreneur.
 
 My strength is writing spaghetti code.
 
