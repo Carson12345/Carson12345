@@ -4,7 +4,7 @@ This is Carson from Hong Kong, software engineer, designer and entrepreneur.
 
 My strength is writing spaghetti code.
 
-Co-founder @ ReUbird - E-Commerce Marketplace (https://reubird.hk)
+Co-founder @ ReUbird - E-Commerce Marketplace (https://reubird.hk) [Acquired]
 
 Co-founder @ RakoSell - Creator SaaS (https://rakosell.com) [Acquired]
 
