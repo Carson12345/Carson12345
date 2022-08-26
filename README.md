@@ -1,16 +1,10 @@
 ### Hi there 👋 
 
-This is Carson from Hong Kong, software engineer, designer and entrepreneur.
-
-My strength is writing spaghetti code.
-
-#### 🎉 My businesses ####
-
 Co-founder @ ReUbird - E-Commerce Marketplace (https://reubird.hk) [Acquired]
 
 Co-founder @ RakoSell - Creator SaaS (https://rakosell.com) [Acquired]
 
-#### 🔭 My own opensource projects / Free tools ####
+#### 🔭 My Free tools ####
 
 Log2MeJS
 https://carson12345.github.io/log2mejs/
@@ -20,14 +14,6 @@ https://github.com/Carson12345/polygon-nft-generator
 
 Batch URL Keyword Analyzer
 https://batch-keyword-analyzer.vercel.app/
-
-
-#### 🌱 Opensource projects I contribute to ####
-
-IPFS Companion
-https://github.com/ipfs/ipfs-companion
-
---- Constantly Updataing ---
 
 <!--
 **Carson12345/Carson12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
