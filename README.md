@@ -7,7 +7,7 @@ Co-founder @ RakoSell - Creator SaaS (https://rakosell.com) [Acquired]
 #### 🔭 My Free tools / Opensource Projects ####
 
 Websprite.js
-[https://carson12345.github.io/log2mejs/](https://github.com/Carson12345/websprite.js)
+https://github.com/Carson12345/websprite.js
 
 Polygon NFT geneator API
 https://github.com/Carson12345/polygon-nft-generator
