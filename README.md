@@ -9,11 +9,12 @@ Co-founder @ RakoSell - Creator SaaS (https://rakosell.com) [Acquired]
 Websprite.js
 https://github.com/Carson12345/websprite.js
 
-Polygon NFT geneator API
-https://github.com/Carson12345/polygon-nft-generator
+ReelScript.dev - Video generation API
+linkedin message me if you want the source code.
+https://reelscript.dev/
 
-Batch URL Keyword Analyzer
-https://batch-keyword-analyzer.vercel.app/
+Polygon NFT geneator API (source code only)
+https://github.com/Carson12345/polygon-nft-generator
 
 <!--
 **Carson12345/Carson12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
