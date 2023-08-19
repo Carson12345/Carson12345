@@ -10,7 +10,6 @@ Websprite.js
 https://github.com/Carson12345/websprite.js
 
 ReelScript.dev - Video generation API
-linkedin message me if you want the source code.
 https://reelscript.dev/
 
 Polygon NFT geneator API (source code only)
